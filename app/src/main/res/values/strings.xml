@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">ConvertEverything</string>
+
+
+    <string-array name="country_code">
+        <item> AUD </item>
+        <item> BGN </item>
+        <item> BRL </item>
+        <item> CAD </item>
+        <item> CHF </item>
+        <item> CNY </item>
+        <item> CZK </item>
+        <item> DKK </item>
+        <item> EUR </item>
+        <item> GBP </item>
+        <item> HKD </item>
+        <item> HRK </item>
+        <item> HUF </item>
+        <item> IDR </item>
+        <item> ILS </item>
+        <item> INR </item>
+        <item> ISK </item>
+        <item> JPY </item>
+        <item> KRW </item>
+        <item> MXN </item>
+        <item> MYR </item>
+        <item> NOK </item>
+        <item> NZD </item>
+        <item> PHP </item>
+        <item> PLN </item>
+        <item> RON </item>
+        <item> SEK </item>
+        <item> SGD </item>
+        <item> THB </item>
+        <item> TRY </item>
+        <item> USD </item>
+        <item> ZAR </item>
+    </string-array>
+    <string-array name="country_name">
+        <item> Australian\nDollar </item>
+        <item> Bulgarian\nLev </item>
+        <item> Brazilian\nReal </item>
+        <item> Canadian\nDollar </item>
+        <item> Swiss\nFranc </item>
+        <item> Chinese\nRenminbi\nYuan </item>
+        <item> Czech\nKoruna </item>
+        <item> Danish\nKrone </item>
+        <item> Euro </item>
+        <item> British\nPound </item>
+        <item> Hong\nKong\nDollar </item>
+        <item> Croatian\nKuna </item>
+        <item> Hungarian\nForint </item>
+        <item> Indonesian\nRupiah </item>
+        <item> Israeli New\nSheqel </item>
+        <item> Indian\nRupee </item>
+        <item> Icelandic\nKróna </item>
+        <item> Japanese\nYen </item>
+        <item> South\nKorean\nWon </item>
+        <item> Mexican\nPeso </item>
+        <item> Malaysian\nRinggit </item>
+        <item> Norwegian\nKrone </item>
+        <item> New\nZealand\nDollar </item>
+        <item> Philippine\nPeso </item>
+        <item> Polish\nZłoty </item>
+        <item> Romanian\nLeu </item>
+        <item> Swedish\nKrona </item>
+        <item> Singapore\nDollar </item>
+        <item> Thai\nBaht </item>
+        <item> Turkish\nLira </item>
+        <item> United\nStates\nDollar </item>
+        <item> South\nAfrican\nRand </item>
+    </string-array>
+</resources>
